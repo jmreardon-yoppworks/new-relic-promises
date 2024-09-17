@@ -1,0 +1,11 @@
+*.class
+*.log
+target/
+**/logs
+.bsp/
+.bloop/
+metals.sbt
+*.DS_Store
+.metals
+.vscode/settings.json
+.idea/
